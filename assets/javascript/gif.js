@@ -1,0 +1,1 @@
+var animals = ["dog", "frog", "chicken", "cat", "bird", "hippo", "cheetah", "tiger", "lion", "wolf"];
