@@ -1,5 +1,5 @@
 # GifTastic
-An animal gif searcher I made. 
+An animal gif searcher I made. you can use it here ---> https://lijaack.github.io/GifTastic/
 
 
 ## Built With
