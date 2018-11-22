@@ -40,6 +40,7 @@ function animalButton(){
                 pHere.text("rating: " + rating);
                 imgHere.attr("src", imgStill);
                 imgHere.addClass("gif")
+                
                 imgHere.attr("data-still", imgStill);
                 imgHere.attr("data-active", imgActive);
                 imgHere.attr("data-status", "still");
