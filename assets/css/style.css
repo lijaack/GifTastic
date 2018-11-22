@@ -26,5 +26,40 @@ button{
 }
 
 .animalButton{
-    margin:10px;
+    margin:5px;
+}
+
+img{
+    height: 200px;
+    width:200px;
+    cursor: pointer;
+}
+
+body{
+    background: url("../images/jungle.jpg") no-repeat center fixed;
+    height: 100vh;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+.fancy-font { 
+    font-family: 'Abril Fatface', cursive;
+    margin-top: 20px;
+}
+
+.img-div {
+    display: inline-block;
+    margin:20px;
+}
+
+#add-animal {
+    margin-top: 10px;
+}
+
+#animal-form{
+    margin-top:20px;
+}
+
+.rating {
+    font-weight: bold;
 }

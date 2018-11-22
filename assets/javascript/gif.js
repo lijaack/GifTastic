@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 
-var animals = ["dog", "frog", "chicken", "cat", "bird", "hippo", "cheetah", "tiger", "lion", "wolf"];
+var animals = ["dogs", "frogs", "chickens", "cats", "birds", "hippos", "cheetahs", "tigers", "lions"];
 
 renderButtons();
 
@@ -36,6 +36,7 @@ function animalButton(){
                 var imgHere = $("<img>");
                 var pHere = $("<p>");
 
+                pHere.addClass("rating");
                 pHere.text("rating: " + rating);
                 imgHere.attr("src", imgStill);
                 imgHere.addClass("gif")
