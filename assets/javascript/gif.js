@@ -19,7 +19,7 @@ $("#add-animal").on("click", function(){
 function animalButton(){
     $(".animalButton").on("click", function(){
         var animal = $(this).attr("data-name");
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + animal + "&api_key=1OVQSHuHES8E7WZ8cw67VG1Y38xBawCS&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + animal + "&api_key=1OVQSHuHES8E7WZ8cw67VG1Y38xBawCS&limit=10";
         $("#animal-gifs").empty();
         $.ajax({
             url: queryURL,
