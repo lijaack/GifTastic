@@ -8,7 +8,7 @@ An animal gif searcher I made. you can use it here ---> https://lijaack.github.i
 * css
 * jquery
 * javascript
-* api
+* ajax
 
 ## Authors
 
