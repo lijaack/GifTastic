@@ -37,7 +37,7 @@ function animalButton(){
                 var pHere = $("<p>");
 
                 pHere.addClass("rating");
-                pHere.text("rating: " + rating);
+                pHere.text("Rating: " + rating);
                 imgHere.attr("src", imgStill);
                 imgHere.addClass("gif")
                 
