@@ -1,6 +1,6 @@
 # GifTastic
 An animal gif searcher I made. you can use it here ---> https://lijaack.github.io/GifTastic/
-![GifTastic](assets/images/The Jungle.png)
+![GifTastic](assets/images/The-Jungle.png)
 
 ## Built With
 
